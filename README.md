@@ -13,7 +13,7 @@
 - 💡 Работаю с **NestJS**, **Next.js**, **ASP.NET Core 8.0**, **Flutter**
 - 🎨 Проектирую интерфейсы в **Figma**, использую **Tailwind CSS**
 - 🐳 Люблю **Docker** и CI/CD
-- 🗃️ MSSQL / PostgreSQL / SQLite — предпочитаемые БД, но люблю изучать новое!
+- 🗃️ MSSQL / PostgreSQL / MySQL / SQLite — предпочитаемые БД, но люблю изучать новое!
 - 🤖 Пишу **Discord-ботов** на **Necord** и **Discord.js**
 
 ---
@@ -21,7 +21,7 @@
 ### 🧰 Стек технологий
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nestjs,nodejs,discordjs,cs,dotnet,flutter,dart,docker,html,css,tailwind,figma,postgres,sqlite,prisma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nestjs,nodejs,discordjs,cs,dotnet,flutter,dart,docker,html,css,tailwind,figma,postgres,sqlite,mysql,prisma" />
 </p>
 
 ---
