@@ -21,7 +21,7 @@
 ### 🧰 Стек технологий
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nestjs,discordjs,cs,dotnet,flutter,dart,docker,html,css,tailwind,figma,postgres,sqlite," />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nestjs,nodejs,discordjs,cs,dotnet,flutter,dart,docker,html,css,tailwind,figma,postgres,sqlite,prisma" />
 </p>
 
 ---
