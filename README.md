@@ -1,20 +1,21 @@
+<div style="background-color:#1e1e3f; padding: 2rem; border-radius: 1rem; color: #f4e3b2;">
+
 <h1 align="center">Привет! 👋 Я Klenkozarashi</h1>
 
 <p align="center">
   <em>Fullstack-разработчик и инженер 🤖</em><br>
-  <em>Создаю современные web-приложения, мобильные интерфейсы и автоматизацию</em>
+  <em>Создаю современные web-приложения, мобильные интерфейсы - и всё это с уникальным дизайном под ваш заказ!</em>
 </p>
 
 ---
 
 ### 🚀 Обо мне
 
-- ⚙️ Пишу на **TypeScript**, **C#**, **Dart** и **SQL**
+- ⚙️ Пишу на **TypeScript**, **C#** и **Dart**
 - 💡 Работаю с **NestJS**, **Next.js**, **ASP.NET Core 8.0**, **Flutter**
 - 🎨 Проектирую интерфейсы в **Figma**, использую **Tailwind CSS**
-- 🧠 Увлекаюсь видеонейросетями, визуальным управлением и автоматизацией
 - 🐳 Люблю **Docker** и CI/CD
-- 🗃️ MSSQL / PostgreSQL / SQLite — не проблема
+- 🗃️ MSSQL / PostgreSQL / SQLite — предпочитаемые БД, но люблю изучать новое!
 - 🤖 Пишу **Discord-ботов** на **Necord** и **Discord.js**
 
 ---
@@ -30,38 +31,41 @@
 ### 🛠️ Проекты
 
 - **🧠 SQL Тренажёр** — фронт на Flutter, бэкенд NestJS + in-memory проверка запросов
-- **📸 Панель управления тележкой** — React + YOLO + ESP32, управление через клик
 - **📊 ASP.NET CMS** — Razor Pages + MSSQL + интерфейс профилей и постов
-- **🛠️ DiscordBot Pro** — на Necord: реакции, ивенты, роли, расписания
+- **🛠️ Vivi Bot** — на Necord: Discord-бот с широким функционалом
 
 ---
 
 ### ⏱ Моя статистика с WakaTime
 
-[![Klenkozarashi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Klenkozarashi&theme=codeSTACKr)](https://wakatime.com/@Klenkozarashi)
-
+<p align="center">
+  <a href="https://wakatime.com/@Klenkozarashi">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Klenkozarashi&theme=ayu-mirage" alt="WakaTime Stats" />
+  </a>
+</p>
 
 ---
 
 ### 📈 GitHub статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Klenkozarashi&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klenkozarashi&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Klenkozarashi&show_icons=true&theme=ayu-mirage" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klenkozarashi&layout=compact&theme=ayu-mirage" height="150"/>
 </p>
 
 ---
 
 ### 📫 Контакты
 
-- Telegram: [@your_username](https://t.me/your_username)
-- Discord: `your_username#1234`
-- Email: `your.email@example.com`
+- Telegram: [@klenkozarashi](http://t.me/klenkozarashi)
+- Discord: [@Klenkovnica](https://discordapp.com/users/480281289283338260/)
+- Email: yushengcheng505@gmail.com
 
 ---
 
 <details>
-<summary>✨ Факт обо мне</summary>
+<summary>✨ Факты обо мне</summary>
 
-> Придумываю архитектуру до строки кода — потому что структура решает всё ⚡
+> Мяу
+> Напишу тут что-нибудь про себя тупо
 </details>
